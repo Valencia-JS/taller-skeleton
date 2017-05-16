@@ -1,0 +1,27 @@
+{
+  "name": "taller-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valencia-JS/workshop-skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valencia-JS/workshop-skeleton/issues"
+  },
+  "homepage": "https://github.com/Valencia-JS/workshop-skeleton#readme",
+  "dependencies": {
+    "server": "^1.0.0-alpha.41"
+  },
+  "engineStrict": true,
+	"engines": {
+		"node": ">=7.6"
+	}
+}
