@@ -21,6 +21,7 @@ Por favor traed los programas y software instalados porque no tendremos tiempo d
 git clone https://github.com/Valencia-JS/workshop-skeleton.git
 cd workshop-skeleton
 npm install
+npm test
 npm start
 ```
 
