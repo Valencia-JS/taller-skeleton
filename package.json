@@ -1,27 +1,19 @@
 {
-  "name": "taller-skeleton",
+  "name": "demo",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "7.6.x"
+  },
   "main": "index.js",
-  "scripts": {
-    "test": "node test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Valencia-JS/workshop-skeleton.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Valencia-JS/workshop-skeleton/issues"
-  },
-  "homepage": "https://github.com/Valencia-JS/workshop-skeleton#readme",
   "dependencies": {
     "server": "^1.0.0-alpha.41"
   },
-  "engineStrict": true,
-	"engines": {
-		"node": ">=7.6"
-	}
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
 }
